@@ -1,0 +1,9 @@
+
+export const APP_STYLES = {
+    MAIN_CONTAINER_BG_COLOR: 'rgba(0,0,0,0.5)',
+    CARD_BORDER_COLOR: '#FFFFFF',
+    CARD_FRONT_COLOR: '#39a3f4',
+    CARD_BLACK_COLOR: '#FFFFFF',
+    CARD_TEXT_FRONT_COLOR: '#FFFFFF',
+    CARD_TEXT_BBLACK_COLOR: 'black',
+};
